@@ -5,7 +5,6 @@ import com.hdfc.banking.beans.Account;
 import com.hdfc.banking.beans.Transaction;
 import com.hdfc.banking.daoservices.AccountDAO;
 import com.hdfc.banking.daoservices.AccountDAOImpl;
-import com.capgemini.banking.exceptions.*;
 import com.hdfc.banking.exceptions.*;
 
 import java.util.ArrayList;

@@ -1,10 +1,9 @@
 package com.hdfc.banking.controllers;
 
 import com.hdfc.banking.beans.Account;
-import com.capgemini.banking.exceptions.*;
+import com.hdfc.banking.exceptions.*;
 import com.hdfc.banking.services.BankingServices;
 import com.hdfc.banking.services.BankingServicesImpl;
-import com.hdfc.banking.exceptions.*;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
